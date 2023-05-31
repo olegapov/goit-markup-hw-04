@@ -381,11 +381,11 @@ gap: 24px;
   fill: var(--cloud);
 }
 
-.team-soc-icon:hover {
+.team-soc-link:hover {
   background-color: #404bbf;
 }
 
-.team-soc-icon:focus {
+.team-soc-link:focus {
   background-color: #404bbf;
 }
 
