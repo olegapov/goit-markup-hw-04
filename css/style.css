@@ -424,6 +424,7 @@ display: flex;
 .customers-title {
 font-weight: 700;
 font-size: 36px;
+content: Customers;
 line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
