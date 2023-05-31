@@ -424,6 +424,16 @@ display: flex;
   
 }
 
+.customers-link:hover {
+  border-color: #404bbf;
+  color: #404bbf;
+} 
+
+.customers-link:focus {
+  border-color: #404bbf; 
+  color: #404bbf;
+}
+
 .customers-title {
 font-weight: 700;
 font-size: 36px;
