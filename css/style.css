@@ -460,6 +460,8 @@ margin-bottom: 72px;
 .footer {
  padding: 100px 0;
  background: var(--navi-blue);
+ display: flex;
+ align-items: baseline;
  /* height: 312px; */
 }
 
