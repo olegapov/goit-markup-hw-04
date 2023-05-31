@@ -423,10 +423,6 @@ display: flex;
   color: var(--light-slate);
   
 }
-.customers-soc-icon {
-  fill: currentColor;
-}
-
 
 .customers-link:hover {
   border-color: #404bbf;
@@ -437,6 +433,10 @@ display: flex;
   border-color: #404bbf; 
   color: #404bbf;
 }
+
+/* .customers-soc-icon {
+  fill: currentColor;
+ } */
 
 .customers-title {
 font-weight: 700;
