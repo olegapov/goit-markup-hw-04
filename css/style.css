@@ -180,6 +180,10 @@ color: var(--ocean);
   max-width: 1440px;
 }
 
+.hero-container {
+  background-image:linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office\ 1.jpg);
+}
+
 .hero-title {
   font-weight: 700;
   font-size: 56px;
@@ -227,7 +231,9 @@ color: var(--ocean);
 .hero-btn-title:focus {
   background-color: var(--ocean)
 }
+
 /* -----features----- */
+
 .features {
   padding: 120px 0;
 }
