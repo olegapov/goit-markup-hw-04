@@ -391,6 +391,11 @@ gap: 24px;
 
 /* customers */
 
+.customers {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
 .customers-container {
 height: 440px;
 }
@@ -424,7 +429,6 @@ text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: var(--navi-blue);
-margin-top: 120px;
 margin-bottom: 72px;
 }
 
