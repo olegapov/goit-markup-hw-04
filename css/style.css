@@ -465,6 +465,10 @@ margin-bottom: 72px;
  align-items: baseline;
  /* height: 312px; */
 }
+.footer-menu {
+  display: flex;
+  align-items: baseline,
+}
 
 .footer-text {
   font-weight: 400;
