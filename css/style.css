@@ -379,7 +379,7 @@ gap: 24px;
 }
 
 .team-soc-icon {
-  fill: currentColor;
+  fill: var(--cloud);
 }
 
 .team-soc-link:hover {
