@@ -413,11 +413,6 @@ gap: 24px;
   margin-bottom: 72px;
   }
 
-.customers-container-item {
-  width: 168px;
-  height: 88px;
-  /* border: 1px solid #8E8F99; */
-}
 
 .customers-list {
   display: flex;
@@ -446,6 +441,8 @@ gap: 24px;
 }
 
 .customers-soc-icon {
+  width: 104px;
+  height: 56px;
  fill: currentColor;
  }
 
