@@ -556,6 +556,7 @@ margin-bottom: 72px;
 .footer-soc-icon {
   width: 24px;
   height: 24px;
+  fill: var(--cloud);
 }
 
 
