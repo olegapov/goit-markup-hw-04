@@ -464,11 +464,12 @@ margin-bottom: 72px;
  padding: 100px 0;
  background: var(--navi-blue);
  /* display: flex; */
- align-items: baseline;
+ 
  /* height: 312px; */
 }
 .footer-menu {
   display: flex;
+  align-items: baseline;
 }
 
 .footer-text {
