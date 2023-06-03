@@ -463,13 +463,12 @@ margin-bottom: 72px;
 .footer {
  padding: 100px 0;
  background: var(--navi-blue);
- display: flex;
- align-items: baseline;
+ /* display: flex; */
+ /* align-items: baseline; */
  /* height: 312px; */
 }
 .footer-menu {
   display: flex;
-  align-items: baseline;
 }
 
 .footer-text {
@@ -478,11 +477,11 @@ margin-bottom: 72px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--cloud);
-  max-width: 264px;
 }
 
 .footer-logo-container {
   margin-right: 120px;
+  max-width: 264px;
 }
 
 .footer-logo {
@@ -522,14 +521,9 @@ margin-bottom: 72px;
   margin-bottom: 16px;
 }
 
-.footer-list {
-  display: flex;
-  gap: 120px;
-}
 
 .footer-soc-list {
   display: flex;
-  justify-content: center;
   gap: 16px;
 }
 
