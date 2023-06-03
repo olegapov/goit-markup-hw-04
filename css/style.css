@@ -545,6 +545,14 @@ margin-bottom: 72px;
   justify-content: center;
 }
 
+.footer-soc-link:hover {
+  background-color: #31d0aa;
+}
+
+.footer-soc-link:focus{
+  background-color: #31d0aa;
+}
+
 .footer-soc-icon {
   width: 24px;
   height: 24px;
