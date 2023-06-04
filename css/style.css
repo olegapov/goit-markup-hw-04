@@ -129,11 +129,6 @@ display: block;
   color: var(--slate);
  }
 
-.header-logo:hover,
-.header-logo:focus {
-  color: var(--ocean);
-}
-
 .header-item-link:hover,
 .header-item-link:focus {
   color: var(--ocean);
@@ -432,8 +427,6 @@ gap: 24px;
   
 }
 
-
-
 .customers-item {
   width: calc((100% - 120px) / 6);
   height: 88px;
@@ -644,9 +637,6 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
 
 .service-item {
   width: calc((100% - 48px) / 3); 
-  border: 1px solid #F4F4FD;
-  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
-
 }
 
 
